@@ -88,7 +88,7 @@
       'Perusahaan: ' + (perusahaan || '-') + '\n\n' +
       'Pesan:\n' + pesan
     );
-    window.location.href = 'mailto:pt.bajengmaritimeindonesia@gmail.com?subject=' + subject + '&body=' + body;
+    window.location.href = 'mailto:info@bajengmaritime.co.id?subject=' + subject + '&body=' + body;
     return false;
   };
 })();
